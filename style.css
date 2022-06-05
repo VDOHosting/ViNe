@@ -30,6 +30,33 @@ body {
     background: -webkit-linear-gradient(0deg, rgba(255,223,208,1) 35%, rgba(252,230,217,1) 100%);
     background: linear-gradient(0deg, rgba(255,223,208,1) 35%, rgba(252,230,217,1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffdfd0",endColorstr="#fce6d9",GradientType=1);
-    width: fit-content;
+    width: 300px;
     border-radius: 10px;
+}
+
+img {
+    width: 100%;
+}
+
+.border {
+    border-radius: 10px;
+    border-color: black;
+    border-style: solid;
+    margin: 0px;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.border:hover {
+    border-radius: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration-color: #05ac02;
+    color: #252525;
 }
