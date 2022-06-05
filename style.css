@@ -1,0 +1,35 @@
+.blocktext {
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.wrapper{
+
+    align-self: center;
+    justify-self: center;
+    width: fit-content;
+    margin: 20px;
+}
+
+body {
+
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-items: center;
+    
+}
+
+.gradient {
+    background: rgb(255,223,208);
+    background: -moz-linear-gradient(0deg, rgba(255,223,208,1) 35%, rgba(252,230,217,1) 100%);
+    background: -webkit-linear-gradient(0deg, rgba(255,223,208,1) 35%, rgba(252,230,217,1) 100%);
+    background: linear-gradient(0deg, rgba(255,223,208,1) 35%, rgba(252,230,217,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffdfd0",endColorstr="#fce6d9",GradientType=1);
+    width: fit-content;
+    border-radius: 10px;
+}
