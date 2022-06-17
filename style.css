@@ -38,6 +38,7 @@ img {
     width: 100%;
 }
 
+
 .border {
     border-radius: 10px;
     border-color: black;
@@ -45,6 +46,7 @@ img {
     margin: 0px;
     width: 100%;
     margin-top: 10px;
+    display: flexbox;
 }
 
 .border:hover {
@@ -59,4 +61,13 @@ a {
 a:hover {
     text-decoration-color: #05ac02;
     color: #252525;
+}
+
+#frame {
+    align-self: center;
+    justify-self: center;
+    padding-left: 10%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+   
 }
