@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:ViNe -di- Wedding\nDate and Time - Dec 4\, 2022 11:15 AM to 1:00 PM\nVenue - https://bit.ly/HotelCrystalCrown\nSmt. Basanta Kumari & Shri Jaydev Subudhi Invite you for an evening of celebration & blessings at the wedding of their beloved eldest grandson Vishal Son of Mrs. Prabina Subudhi & Mr. Sibadutta Subudhi with Neha Daughter of Mrs. Sujata Das & Late Kamalakanta Das at \nHotel Cyrstal Crown\, Gate No. 2\, Kanan Vihar\, Bhubaneswar\n\nProgramme :\nVarmala - 11:15 AM | Minak Dharan - 12:12 PM\nFollowed By Lunch\nWith Best Compliments Subudhi Parivar\n
+DTSTART:20221204T054500Z
+DTEND:20221204T073000Z
+LOCATION:https://bit.ly/HotelCrystalCrown
+SUMMARY;LANGUAGE=en-us:ViNe -di- Wedding
+END:VEVENT
+END:VCALENDAR
