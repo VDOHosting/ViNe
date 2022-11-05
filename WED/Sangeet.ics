@@ -1,30 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//ical.marudot.com//iCal Event Maker
-CALSCALE:GREGORIAN
-BEGIN:VTIMEZONE
-TZID:Asia/Kolkata
-LAST-MODIFIED:20201011T015911Z
-TZURL:http://tzurl.org/zoneinfo-outlook/Asia/Kolkata
-X-LIC-LOCATION:Asia/Kolkata
-BEGIN:STANDARD
-TZNAME:IST
-TZOFFSETFROM:+0530
-TZOFFSETTO:+0530
-DTSTART:19700101T000000
-END:STANDARD
-END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20221105T125742Z
-UID:1667651774340-44845@ical.marudot.com
-DTSTART;TZID=Asia/Calcutta:20221203T190000
-DTEND;TZID=Asia/Calcutta:20221203T220000
-SUMMARY:ViNe -di- Sangeet
-LOCATION:https://bit.ly/HotelCrystalCrown
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:ViNe -di- Sangeet
-TRIGGER:-PT2H
-END:VALARM
+CLASS:PUBLIC
+DESCRIPTION:ViNe -di- Sangeet\nDate and Time - Dec 3\, 2022 7:00 PM to 10:00 PM\nVenue - HOTEL CRYSTAL CROWN\, C-10 Kanan Vihar\, Chandrasekharpur\, near kiit collage\, Patia\, Bhubaneswar\, Odisha 751024\nBaccha Party of Subudhi Family invite you to join them for ViNe -di- Sangeet followed by Cocktail and Dinner to express our joy and good wishes for soon to be married\n
+DTSTART:20221203T133000Z
+DTEND:20221203T163000Z
+LOCATION:HOTEL CRYSTAL CROWN, C-10 Kanan Vihar, Chandrasekharpur, near kiit collage, Patia, Bhubaneswar, Odisha 751024
+SUMMARY;LANGUAGE=en-us:ViNe -di- Sangeet
 END:VEVENT
 END:VCALENDAR
