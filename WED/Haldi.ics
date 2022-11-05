@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:ViNe -di- Haldi\nDate and Time - Dec 3\, 2022 11:00 AM to 1:00 PM\nVenue - HOTEL CRYSTAL CROWN\, C-10 Kanan Vihar\, Chandrasekharpur\, near kiit collage\, Patia\, Bhubaneswar\, Odisha 751024\nSubudhi Family invites you to the Haldi ceremony of Vishal and Neha\n
+DTSTART:20221203T053000Z
+DTEND:20221203T073000Z
+LOCATION:HOTEL CRYSTAL CROWN, C-10 Kanan Vihar, Chandrasekharpur, near kiit collage, Patia, Bhubaneswar, Odisha 751024
+SUMMARY;LANGUAGE=en-us:ViNe -di- Haldi
+END:VEVENT
+END:VCALENDAR

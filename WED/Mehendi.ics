@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:ViNe -di- Mehendi\nDate and Time - Dec 2\, 2022 11:30 AM to 1:30 PM\nVenue - https://goo.gl/maps/iPySdVnrdgUbdbiNA\nWe invite you to a fun filled morning of ViNe -di- Mehendi for the forthcoming wedding of Vishal and Neha\n
+DTSTART:20221202T060000Z
+DTEND:20221202T080000Z
+LOCATION:https://goo.gl/maps/iPySdVnrdgUbdbiNA
+SUMMARY;LANGUAGE=en-us:ViNe -di- Mehendi
+END:VEVENT
+END:VCALENDAR
