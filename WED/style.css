@@ -78,4 +78,5 @@ h1 {
 
 .sangbg {
     background-image: url(/WED/assets/sangbg.svg);
+    background-size: cover;
 }
